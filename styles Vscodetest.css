@@ -10,7 +10,6 @@ body {
     line-height: 1.6;
     background-color: #299a3e;
     color: #fbfafa;
-    padding: 20px;
     text-align: center;
 }
 
@@ -34,5 +33,12 @@ main {
 fieldset{
     border: none;
     margin: 25px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav div{
+    padding-right: 50px;
 }
     
