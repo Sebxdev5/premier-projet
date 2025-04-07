@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #299a3e;
+    color: #fbfafa;
+}
+
+/* Header Styling */
+header {
+    background: #f9f7f7;
+    padding: 10px 20px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/* Main Content Styling */
+main {
+    display: flex;
+    flex-direction: column;
+}
+form{
+    border: none;
+    margin: auto;
+    width: 70%;
+    margin-top: 20px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav div{
+    padding-right: 50px;
+}
+h1, p{
+    width: 70%;
+    margin: auto;
+}
+    
